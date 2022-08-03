@@ -1,0 +1,24 @@
+.forget-page{
+    background-color: rgba(241, 241, 241, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.forget-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.forget-error{
+    padding: 26px 154px;
+    margin: 0 32px;
+    background-color: #ff5a5f; 
+}
+.forget-form{
+    height: 300px;
+    padding: 26px 24px;
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+}

@@ -1,0 +1,121 @@
+body{
+    font-family: 'Gilroy-Bold ☞';
+}
+
+.img-header {
+    display: flex;
+    padding: 20px;
+}
+
+.account-page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 10rem;
+
+}
+
+h1 {
+    font: 900;
+    font-size: 2rem;
+    font-family: Gilroy SemiBold;
+    font-weight: bolder;
+}
+
+.account-body1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 0px 13rem;
+}
+
+.account-body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+
+.button-page1 {
+    width: 100%;
+    border-radius: 25px;
+    height: 50px;
+    background-color: #ff5a5f;
+}
+.button-page1:hover{
+    background-color: #ff5a5f;  
+}
+.button-page1:focus{
+    background-color: #ff5a5f;  
+}
+
+
+.sign-form {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.button-page {
+    width: 100%;
+    border-radius: 25px;
+    height: 50px;
+}
+
+.img-resize {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+}
+
+.button-change {
+    background: #F7F7F7;
+    border: none;
+    border-radius: 42px;
+    color: #383E41;
+    font-weight: 400;
+    margin: 15px;
+
+}
+
+.button-change:hover {
+    background-color: #383E41;
+    color: #F7F7F7;
+}
+
+.button-change:active {
+    background-color: #383E41;
+    color: #F7F7F7;
+}
+
+.button-change:focus {
+    background-color: #383E41;
+    color: #F7F7F7;
+}
+
+.sign-form Input {
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.form-img {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.account-body1 Input {
+    border-radius: 15px;
+    padding: 15px;
+    width: 100%;
+    border-radius: 25px;
+    height: 50px;
+
+}
+
+.account-body1 Select {
+    border-radius: 15px;
+    padding: 15px;
+}
+
